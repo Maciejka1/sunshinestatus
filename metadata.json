@@ -1,0 +1,8 @@
+{
+  "name": "sunshineStatus",
+  "description": "Turn on/off sunshine and view its status",
+  "uuid": "sunshinestatus@maciejka.com",
+  "shell-version": [
+    "48"
+  ]
+}

@@ -1,0 +1,18 @@
+.sunshine-icon-off,
+.sunshine-icon-started,
+.sunshine-icon-connected{
+    color: inherit; 
+    max-height: 16px; 
+    width: 16px;
+}
+
+.sunshine-status-off {
+    color: red;
+}
+.sunshine-status-started {
+    color: green;
+}
+.sunshine-status-connected {
+    color: green;
+}
+

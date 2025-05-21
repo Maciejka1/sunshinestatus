@@ -1,18 +1,35 @@
 .sunshine-icon-off,
 .sunshine-icon-started,
-.sunshine-icon-connected{
-    color: inherit; 
-    max-height: 16px; 
-    width: 16px;
+.sunshine-icon-connected {
+  height: 16px;
+  width: 16px;
+  height: 16px;
+  padding: 0;
+}
+
+.sunshine-icon-off {
+  color: inherit;
+  opacity: 0.5;
+}
+
+.sunshine-icon-started {
+  color: inherit;
+  opacity: 0.8;
+}
+
+.sunshine-icon-connected {
+  color: inherit;
+  opacity: 1.0;
 }
 
 .sunshine-status-off {
-    color: red;
-}
-.sunshine-status-started {
-    color: green;
-}
-.sunshine-status-connected {
-    color: green;
+  color: #f44336;
 }
 
+.sunshine-status-started {
+  color: #ff9800;
+}
+
+.sunshine-status-connected {
+  color: #4caf50;
+}
